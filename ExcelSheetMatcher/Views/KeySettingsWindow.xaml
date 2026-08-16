@@ -6,7 +6,7 @@
         xmlns:vm="clr-namespace:ExcelSheetMatcher.ViewModels"
         xmlns:local="clr-namespace:ExcelSheetMatcher.Views"
         mc:Ignorable="d"
-        Title="Vladimir's Tool — Настройка ключей" Height="450" Width="300" WindowStartupLocation="CenterScreen">
+        Title="Excel Sheet Matcher — Настройка ключей" Height="450" Width="300" WindowStartupLocation="CenterScreen">
     <Window.DataContext>
         <vm:KeyViewModel/>
     </Window.DataContext>

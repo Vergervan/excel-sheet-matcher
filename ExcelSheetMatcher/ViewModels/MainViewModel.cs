@@ -400,7 +400,7 @@ namespace ExcelSheetMatcher.ViewModels
             {
                 WordParseWindow window = new WordParseWindow();
 
-                window.Title = $"Vladimir's Tool — Просмотр документа \"{item.Name}\"";
+                window.Title = $"Excel Sheet Matcher — Просмотр документа \"{item.Name}\"";
                 var vm = (WordParseViewModel)window.DataContext;
                 vm.OnAddToListData += () => window.Close();
                 using (WordprocessingDocument wordDocument = WordprocessingDocument.Open(path, false))

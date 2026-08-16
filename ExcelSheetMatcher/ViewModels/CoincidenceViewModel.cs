@@ -36,7 +36,7 @@ namespace ExcelSheetMatcher.ViewModels
         {
             get
             {
-                string title = "Vladimir's Tool — ";
+                string title = "Excel Sheet Matcher — ";
                 switch (_handleType)
                 {
                     case DataHandleType.None:

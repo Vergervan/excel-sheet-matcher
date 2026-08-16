@@ -6,7 +6,7 @@
         xmlns:vm="clr-namespace:ExcelSheetMatcher.ViewModels"
         xmlns:local="clr-namespace:ExcelSheetMatcher"
         mc:Ignorable="d"
-        Title="Vladimir's Tool — Главный экран" Height="450" Width="800" MinHeight="185" MinWidth="330">
+        Title="Excel Sheet Matcher — Главный экран" Height="450" Width="800" MinHeight="185" MinWidth="330">
     <Window.DataContext>
         <vm:MainViewModel/>
     </Window.DataContext>

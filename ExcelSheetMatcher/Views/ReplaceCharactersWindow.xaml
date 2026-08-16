@@ -7,7 +7,7 @@
         xmlns:sys="clr-namespace:System;assembly=System.Runtime"
         xmlns:vm="clr-namespace:ExcelSheetMatcher.ViewModels"
         mc:Ignorable="d"
-        Title="Vladimir's Tool — Замена символов" Height="400" Width="260" WindowStartupLocation="CenterScreen">
+        Title="Excel Sheet Matcher — Замена символов" Height="400" Width="260" WindowStartupLocation="CenterScreen">
     <Window.DataContext>
         <vm:ReplaceCharactersViewModel/>
     </Window.DataContext>
