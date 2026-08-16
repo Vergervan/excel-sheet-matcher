@@ -161,9 +161,3 @@ Key types:
 - `KeyHeaderStore` — selected key columns
 - `WorksheetReader` / `OldWorksheetReader` / `CSVReader` — input parsers
 - `WorksheetWriter` — Excel export
-
-
-
-## License
-
-Personal project / no license stated. If you publish on GitHub, add an explicit `LICENSE`.
