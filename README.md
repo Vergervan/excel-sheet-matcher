@@ -4,7 +4,7 @@ Windows desktop utility / десктоп-утилита для Windows — match
 
 - [English](#english)
 - [Русский](#русский)
-- [Stack](#stack) · [Requirements](#requirements) · [Build & run](#build--run) · [Project layout](#project-layout) · [License](#license)
+- [Stack](#stack) · [Requirements](#requirements) · [Build & run](#build--run) · [Project layout](#project-layout)
 
 ---
 
